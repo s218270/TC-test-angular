@@ -6,13 +6,15 @@ import { WeeklyChallengesComponent } from './weekly-challenges/weekly-challenges
 import { HttpClient, HttpClientModule } from '@angular/common/http';
 import { ContestantComponent } from './contestant/contestant.component';
 import { FormsModule } from '@angular/forms';
+import { DoubleGainWeekContestComponent } from './double-gain-week-contest/double-gain-week-contest.component';
+import { CreateCompetitionComponent } from './create-competition/create-competition.component';
 
 
 
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [CommonModule, RouterOutlet, TopBarComponent, WeeklyChallengesComponent, FormsModule, HttpClientModule, ContestantComponent],
+  imports: [CommonModule, RouterOutlet, TopBarComponent, WeeklyChallengesComponent, FormsModule, HttpClientModule, ContestantComponent, DoubleGainWeekContestComponent, CreateCompetitionComponent],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css'
 })
