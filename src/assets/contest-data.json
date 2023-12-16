@@ -1,0 +1,112 @@
+[
+    {
+        "title": "Weekly Challenges",
+        "late": true,
+        "days": 3,
+        "creator": {
+            "img": "assets/weekly-challenges/creator/Ellipse 214.svg",
+            "name": "Roger K",
+            "at": "@rog13k",
+            "prize": "20,000"
+        },
+        "contestants": [
+            {
+                "name": "Roger Korsgaard",
+                "place": 1,
+                "polygon": "assets/weekly-challenges/first/Polygon 5.svg",
+                "alerts": 20,
+                "winrate": 85,
+                "yield": 11,
+                "check": true,
+                "gainloss": "+ $7,500",
+                "loss": false,
+                "overall": 45,
+                "color1": "assets/weekly-challenges/first/Ellipse 207.svg",
+                "color2": "assets/weekly-challenges/first/Ellipse 208.svg"
+            },
+            {
+                "name": "Charlie Herwitz",
+                "place": 2,
+                "polygon": "assets/weekly-challenges/second/Polygon 6.svg",
+                "alerts": 20,
+                "winrate": 85,
+                "yield": 11,
+                "check": true,
+                "gainloss": "+ $1,430",
+                "loss": false,
+                "overall": 25,
+                "color1": "assets/weekly-challenges/second/Ellipse 207 (1).svg",
+                "color2": "assets/weekly-challenges/first/Ellipse 208 (1).svg"
+            },
+            {
+                "name": "Ahmad Mango",
+                "place": 3,
+                "polygon": "assets/weekly-challenges/third/Polygon 5 (1).svg",
+                "alerts": 20,
+                "winrate": 85,
+                "yield": 11,
+                "check": false,
+                "gainloss": "- $1,500",
+                "loss": true,
+                "overall": 10,
+                "color1": "assets/weekly-challenges/third/Ellipse 209.svg",
+                "color2": "assets/weekly-challenges/third/Ellipse 210.svg"
+            }
+        ]
+    },
+    {
+        "title": "Double Gain Week Contest",
+        "late":false,
+        "days": 7,
+        "creator": {
+            "img": "assets/weekly-challenges/creator/Ellipse 214.svg",
+            "name": "Cristofer G.",
+            "at": "@mrcrisrich",
+            "prize": "15,000"
+        },
+        "contestants": [
+            {
+                "name": "Zain Mango",
+                "place": 1,
+                "polygon": "assets/weekly-challenges/first/Polygon 6 (1).svg",
+                "alerts": 20,
+                "winrate": 85,
+                "yield": 11,
+                "check": true,
+                "gainloss": "+ $3,500",
+                "loss": false,
+                "overall": 32,
+                "color1": "assets/weekly-challenges/first/Ellipse 207 (2).svg",
+                "color2": "assets/weekly-challenges/first/Ellipse 208 (2).svg"
+            },
+            {
+                "name": "Leo Kenter",
+                "place": 2,
+                "polygon": "assets/weekly-challenges/second/Polygon 6.svg",
+                "alerts": 20,
+                "winrate": 85,
+                "yield": 11,
+                "check": false,
+                "gainloss": "+ $2,550",
+                "loss": false,
+                "overall": 18,
+                "color1": "assets/weekly-challenges/second/Ellipse 207 (1).svg",
+                "color2": "assets/weekly-challenges/first/Ellipse 208 (1).svg"
+            },
+            {
+                "name": "Marcus Dias",
+                "place": 3,
+                "polygon": "assets/weekly-challenges/third/Polygon 5 (1).svg",
+                "alerts": 20,
+                "winrate": 85,
+                "yield": 11,
+                "check": false,
+                "gainloss": "+ $1,000",
+                "loss": false,
+                "overall": 10,
+                "color1": "assets/weekly-challenges/third/Ellipse 209.svg",
+                "color2": "assets/weekly-challenges/third/Ellipse 210.svg"
+            }
+        ]
+    }
+]
